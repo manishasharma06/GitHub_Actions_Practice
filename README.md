@@ -1,4 +1,4 @@
-## Project 3: GitHub Actions CI/CD
+## GitHub Actions CI/CD
 
 # CI/CD Pipeline for Angular using GitHub Actions
 
